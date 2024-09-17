@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="hiwLlRVZviJGpqHuwzEi" name="Page-1">
-        <mxGraphModel dx="531" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="654" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -53,11 +53,6 @@
                 </mxCell>
                 <mxCell id="17" value="IS&amp;nbsp;&lt;br&gt;marks &amp;gt;33" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontFamily=Times New Roman;gradientColor=none;" vertex="1" parent="1">
                     <mxGeometry x="300" y="327.5" width="100" height="95" as="geometry"/>
-                </mxCell>
-                <mxCell id="29" style="edgeStyle=none;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="20">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="410" y="660" as="targetPoint"/>
-                    </mxGeometry>
                 </mxCell>
                 <mxCell id="20" value="Print&quot;Pass&quot;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;shadow=1;labelBackgroundColor=none;labelBorderColor=none;sketch=1;gradientColor=none;curveFitting=1;jiggle=2;rounded=1;glass=0;" vertex="1" parent="1">
                     <mxGeometry x="490" y="347.5" width="100" height="55" as="geometry"/>
